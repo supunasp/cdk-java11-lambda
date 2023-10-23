@@ -1,0 +1,4 @@
+#!/bin/sh
+set -euo pipefail
+uname -a
+./app $_HANDLER

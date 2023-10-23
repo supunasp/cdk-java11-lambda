@@ -1,15 +1,14 @@
-package com.novattipayments.cdk;
+package com.supunasp.cdk;
 
 import lombok.AccessLevel;
 import lombok.NoArgsConstructor;
 
 @NoArgsConstructor(access = AccessLevel.PRIVATE)
 public class Constants {
-
     public static final String DEVELOPMENT_ENV = "development";
-    public static final String DEFAULT_ENV = DEVELOPMENT_ENV;
-    public static final String GROUP_ID = "GROUP_ID";
+    public static final String TEST_ENV = "test";
     public static final String ARTIFACT_ID = "ARTIFACT_ID";
-    public static final String VERSION_ID = "VERSION_ID";
+    public static final String SNAPSHOT_VERSION = "SNAPSHOT_VERSION";
+    public static final String RELEASE_VERSION = "RELEASE_VERSION";
 
 }

@@ -3,7 +3,7 @@
          xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.novattipayments.cdk</groupId>
+    <groupId>com.supunasp.cdk</groupId>
     <artifactId>cdk-project</artifactId>
     <version>0.1</version>
 
